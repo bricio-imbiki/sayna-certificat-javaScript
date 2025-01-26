@@ -2,6 +2,6 @@
 
 Certificat JavaScript SAYNA
 
-![Certificat JavaScript](https://example.com/path/to/image.png)
+![Certificat JavaScript](https://github.com/bricio-imbiki/sayna-certificat-javaScript/blob/main/sayna-javaScript-certificat.png)
 
 
